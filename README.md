@@ -1,1 +1,1 @@
-# LS-WD-Assignments
+# Chess Website
